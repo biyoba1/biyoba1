@@ -16,4 +16,4 @@ Get in touch
 ------------
 
 * Telegram: [@BiYoBa](https://t.me/BiYoBa)
-* Email: [ladinnvalera@gmail.com]
+* Email: [ladinnvalera@gmail.com](click)
