@@ -1,5 +1,3 @@
-**biyoba**
-================
 
 💻 Core Stack: Go/Gin. Mainly focused on Backend.                      
 🔥 Interested in gRPC, REST API.
