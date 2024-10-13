@@ -7,8 +7,8 @@ Skills
 
 * Programming languages: Go, C#, C++
 * Frameworks: Gin
-* Databases: SQLite, PostgreSQL
-* DevOps: Docker
+* Databases: SQLite, PostgreSQL, Redis
+* DevOps: Docker, Kafka
 
 Get in touch
 ------------
