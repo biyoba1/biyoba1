@@ -5,10 +5,10 @@
 Skills
 ------
 
-* Programming languages: Go, C#, C++
-* Frameworks: Gin
+* Programming languages: Go, C#, C++, JS
+* Frameworks: Gin, Vue JS
 * Databases: SQLite, PostgreSQL, Redis
-* DevOps: Docker, Kafka
+* DevOps: Docker, Apache Kafka
 
 Get in touch
 ------------
